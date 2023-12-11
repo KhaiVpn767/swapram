@@ -1,6 +1,6 @@
 # Install SwapRAM
  ```html
-wget -q -O /usr/bin/swapram "https://raw.githubusercontent.com/KhaiVpn767/MultiportV3/main/swapram.sh" && chmod +x /usr/bin/swapram && swapram
+wget -q -O /usr/bin/swapram "https://raw.githubusercontent.com/KhaiVpn767/swapram/main/swapram.sh" && chmod +x /usr/bin/swapram && swapram
   ```
 Then Just type command below
  ```html
